@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1983596761:AAHXkg3n6Oa0HlwVCQyaLKaZJaHbYndzxgo"
     APP_ID = "7024875"
     API_HASH = "bb2e5a71459ada0da536a8a7974fee39"
-    DATABASE_URL = "postgres://gpyjzccm:8qz-LRFNVH8zv8PmsqW7lj322GnRDiUt@arjuna.db.elephantsql.com/gpyjzccm"
+    DATABASE_URL = "postgresql://gpyjzccm:8qz-LRFNVH8zv8PmsqW7lj322GnRDiUt@arjuna.db.elephantsql.com/gpyjzccm"
     SUDO_USERS = "1993087643" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
